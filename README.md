@@ -24,8 +24,14 @@
 </h4> 
 
 <kbd>
-<img class="image" style="border-radius:8px" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
+<img class="image" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
 </kbd>
+
+<style>
+  .image {
+  border-radius: 50%;
+  }
+  </style>
 
 ---
 
