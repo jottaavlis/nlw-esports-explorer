@@ -3,6 +3,9 @@
   <br>  
    :rocket: NextLevelWeek - Together
 </h1>  
+
+---
+
 <h2 align="center">
   <img alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883099-248ae4ec-5372-4c64-9a68-243649860777.png" width="150px"/>  
   <br>
