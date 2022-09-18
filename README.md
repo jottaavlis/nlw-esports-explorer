@@ -19,7 +19,8 @@
   Mission Complete With Sucess!
 </h2>
 
-[Click here to acess!](https://ejotta.github.io/nlw-esports-explorer/)
+<a align="center" href="https://ejotta.github.io/nlw-esports-explorer/">Click here to access!</a>
+  
 <h4 align="center">
   This is the project of NextLevelWeek Together event.
 </h4> 
