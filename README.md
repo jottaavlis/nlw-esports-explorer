@@ -24,15 +24,9 @@
 </h4> 
 
 <kbd>
-<img class="image" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
+<img styles="border-radius: 50%;" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
 </kbd>
 
 ---
 
 Made with ♥ by [eJotta](https://github.com/eJotta)
-
-<style>
-  img {
-  border-radius: 50%;
-  }
-  </style>
