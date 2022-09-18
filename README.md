@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img alt="NextLevelWeek" src="![image](https://user-images.githubusercontent.com/79101105/190882715-b1b2edca-a2b9-4081-a653-948136ed6c5d.png)" width="200px"/>  
+  ![image](https://user-images.githubusercontent.com/79101105/190882715-b1b2edca-a2b9-4081-a653-948136ed6c5d.png)
   <br>  
    :rocket: NextLevelWeek - Together
 </h1>  
