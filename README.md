@@ -23,6 +23,8 @@
   This is the project of NextLevelWeek Together event.
 </h4> 
 
+![image](https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png)
+
 ---
 
 Made with ♥ by [eJotta](https://github.com/eJotta)
