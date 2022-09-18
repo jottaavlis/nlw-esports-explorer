@@ -23,15 +23,15 @@
   This is the project of NextLevelWeek Together event.
 </h4> 
 
+<style>
+  .image {
+  border-radius:8px;
+  }
+</style>
+
 <kbd>
 <img class="image" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
 </kbd>
-
-<style>
-  .image {
-  border-radius=8px;
-  }
-</style>
 
 ---
 
