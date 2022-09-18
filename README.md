@@ -1,10 +1,7 @@
 <h1 align="center"> 
   <img alt="NextLevelWeek" src="https://user-images.githubusercontent.com/79101105/123453487-ffa91500-d5b5-11eb-887f-1a8f93bf889b.png" width="200px"/>  
-  <img alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883099-248ae4ec-5372-4c64-9a68-243649860777.png" width="150px"/>  
   <br>
    :rocket: NextLevelWeek - Together
-  <br>
-  Mission Complete With Sucess!
 </h1>
 
 <p align="center">
@@ -15,6 +12,12 @@
     <img alt="Language Count" src="https://img.shields.io/github/languages/count/eJotta/nlw-esports-explorer?style=for-the-badge"> 
   </a>
 </p>
+
+<h2 align="center"> 
+  <img alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883099-248ae4ec-5372-4c64-9a68-243649860777.png" width="300px"/>  
+  <br>
+  Mission Complete With Sucess!
+</h2>
 
 <h4 align="center">
   This is the project of NextLevelWeek Together event.
