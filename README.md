@@ -20,7 +20,7 @@
 </h2>
 
 <h3 align="center">
-  <a href="https://ejotta.github.io/nlw-esports-explorer/" target="_blank">🔗 Click here to access!</a>
+  <a href="https://ejotta.github.io/nlw-esports-explorer/">🔗 Click here to access!</a>
 </h3> 
   
 <h4 align="center">
