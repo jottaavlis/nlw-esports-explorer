@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center" justify-content="center"> 
   <img alt="NextLevelWeek" src="https://user-images.githubusercontent.com/79101105/123453487-ffa91500-d5b5-11eb-887f-1a8f93bf889b.png" width="200px"/>  
    :rocket: NextLevelWeek - Together
 </h1>  
