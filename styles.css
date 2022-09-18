@@ -43,7 +43,7 @@ header div:hover {
     transform: scale(1.1);
 }
 
-header a img {
+header img {
     width: 100%;
     border-radius: 50%;
 }
