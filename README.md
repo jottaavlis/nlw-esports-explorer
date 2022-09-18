@@ -24,7 +24,7 @@
 </h4> 
 
 <kbd>
-<img style="border-radius: 50%;" alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
+<img alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883413-67aa63d0-4885-4422-b80c-4cf62dbd23c7.png"> 
 </kbd>
 
 ---
