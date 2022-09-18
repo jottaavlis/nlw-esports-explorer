@@ -1,14 +1,11 @@
-<h1 align="center" display="flex" justify-content="center"> 
+<h1 align="center"> 
   <img alt="NextLevelWeek" src="https://user-images.githubusercontent.com/79101105/123453487-ffa91500-d5b5-11eb-887f-1a8f93bf889b.png" width="200px"/>  
-   :rocket: NextLevelWeek - Together
-</h1>  
-
----
-
-<h2 align="center">
   <img alt="ESports" src="https://user-images.githubusercontent.com/79101105/190883099-248ae4ec-5372-4c64-9a68-243649860777.png" width="150px"/>  
   <br>
-  Mission Complete With Sucess!</h2>
+   :rocket: NextLevelWeek - Together
+  <br>
+  Mission Complete With Sucess!
+</h1>
 
 <p align="center">
   <a href="https://github.com/eJotta/Letmeask"> 
